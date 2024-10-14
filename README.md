@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jaiydev Gupta (@gupta799)
+- 👀 I’m interested in ML modeling, specifically training models for text generation tasks and fine-tuning large language models (LLMs) in both supervised and unsupervised settings. I'm also passionate about building distributed, highly scalable applications using Golang, and creating AI solutions that leverage my background in Hadoop, Spark, and vector indexes such as Redis Vector Search.
+- 🌱 I’m currently learning advanced techniques for LLM fine-tuning and optimizing distributed systems for machine learning workloads.
+- 💞️ I’m looking to collaborate on projects involving text generation, distributed AI applications, and innovations in vector search technologies.
+- 📫 How to reach me: (mailto:jaiydev799@hotmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love exploring the intersection of AI and scalable systems, and I’m always experimenting with new ways to optimize model performance across large datasets.
